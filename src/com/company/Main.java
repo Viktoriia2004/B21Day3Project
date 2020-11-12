@@ -8,6 +8,7 @@ public class Main {
 
         //B21 is exited
         //B21 is smart
+        // B21 is good
 
 
 
