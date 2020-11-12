@@ -7,7 +7,7 @@ public class Main {
         System.out.println("Hello gIt last day");
 
         //B21 is exited
-        //
+        //B21 is smart
 
 
 
